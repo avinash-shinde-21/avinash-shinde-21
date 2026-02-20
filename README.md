@@ -1,21 +1,24 @@
-# Hey, I'm Avinash! 👋
+# Hi, I'm Avinash 👋
 
-I don’t know everything. But give me **time, Wi-Fi, and a real problem—and I’ll figure it out.**  
+Frontend / Full-Stack Developer focused on building modern web applications with Next.js and React.
 
 ---
 
 ## 👨‍💻 About Me
-- 🧠 Self-taught developer on a mission to master **MERN Stack** & **DSA in C++**
-- ⚙️ Building real-world projects from scratch
-- 🚀 Dreaming big: Startup founder in the making.
-- 🇮🇳 Determined to be known across India—then the world.
-- 
----
-
-## 📬 Let's Connect
-- 🔗 [LinkedIn](https://linkedin.com)
-- 🤝 Open to learning, building, and collaborating
+- Building frontend and full-stack projects with Next.js, React, and Tailwind CSS  
+- Currently expanding into backend development (Node.js, PostgreSQL, Prisma)  
+- Experience delivering live web projects during internship  
+- Interested in scalable web architecture and real-world problem solving  
 
 ---
 
-> **“No one starts as a legend. But with fire, focus, and consistency—you become one.”**
+## 🧰 Tech Stack
+- Frontend: Next.js, React, Tailwind CSS  
+- Backend: Node.js (learning)  
+- Database: PostgreSQL, MongoDB (learning)  
+- Tools: Git, GitHub  
+
+---
+
+## 📬 Connect
+- LinkedIn: https://linkedin.com/in/your-link  
