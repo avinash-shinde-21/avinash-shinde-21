@@ -21,4 +21,4 @@ Frontend / Full-Stack Developer focused on building modern web applications with
 ---
 
 ## 📬 Connect
-- LinkedIn: https://linkedin.com/in/your-link  
+- LinkedIn: https://www.linkedin.com/in/avinash-shinde-2118bb277/
